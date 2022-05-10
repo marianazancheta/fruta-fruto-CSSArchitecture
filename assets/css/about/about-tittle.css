@@ -1,0 +1,16 @@
+.about__tittle {
+    color: #8d0606;
+    font-family: Pacifico, cursive;
+}
+
+@media screen and (min-width: 0) {
+    .about__tittle {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .about__tittle {
+        font-size: 3.1875rem;
+    }
+}

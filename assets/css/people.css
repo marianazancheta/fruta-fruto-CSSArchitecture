@@ -1,0 +1,17 @@
+.staff {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 3rem;
+}
+
+@media screen and (min-width: 0) {
+    .staff {
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .staff {
+        flex-direction: row;
+    }
+}

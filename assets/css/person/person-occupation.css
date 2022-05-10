@@ -1,0 +1,5 @@
+.person__occupation {
+    color: #595959;
+    font-size: 1.25rem;
+    text-transform: lowercase;
+}
